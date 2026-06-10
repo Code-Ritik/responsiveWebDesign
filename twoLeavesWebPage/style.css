@@ -566,7 +566,7 @@ main .sec-4 {
 .center h3 {
     width: 100%;
     font-family: reckless;
-    font-size: clamp(2rem, 5vw, 3.7rem);
+    font-size: clamp(2rem, 4vw, 3.7rem);
     font-weight: 100;
     text-align: center;
 }
@@ -1386,12 +1386,6 @@ footer .logo {
         min-height: 80vh;
         width: 70%;
         display: block;
-    }
-
-    .sec-4 .center h3 {
-        width: 100%;
-        font-size: 2rem;
-        text-align: center;
     }
 
     .icon {
